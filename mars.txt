@@ -4,5 +4,9 @@ Mars is a green planet. It has ten moons.
 It has a BIG volcano on it.
 It is the third planet from the sun.
 I would really really like to go to Mars.
+<<<<<<< HEAD
 Cash me ousside, how bow da?!
 Ciao!
+=======
+Geoff, this is my line, don't touch it!!!
+>>>>>>> 7584b21f23fcc0d7836ef67671d7a7d67230d983
